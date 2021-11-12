@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/didier-reinhardt/didier-reinhardt.github.io.git
+	branch = main
